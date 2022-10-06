@@ -1,0 +1,1 @@
+import{l as e}from"./logo.44233d9c.js";import{a as n,j as a}from"./index.6a0add1f.js";function s(){return n("div",{className:"notfound",children:[a("div",{className:"image animate__animated animate__pulse",children:a("img",{src:e,alt:"logo"})}),n("h1",{children:["404 ",a("span",{className:"animate__animated animate__bounceInUp",children:"Not Found"})]})]})}export{s as default};
