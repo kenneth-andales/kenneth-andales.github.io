@@ -1,0 +1,1 @@
+import{l as o}from"./logo.44233d9c.js";import{a as n,j as a}from"./index.5fc6e007.js";const t=()=>n("div",{className:"notfound",children:[a("div",{className:"image animate__animated animate__pulse",children:a("img",{src:o,alt:"logo"})}),n("h1",{children:["404"," ",a("span",{className:"animate__animated animate__bounceInUp",children:"Not Found"})]})]});export{t as default};
