@@ -1,1 +1,0 @@
-import{a as s,s as a,j as e,W as r}from"./index-d3ca09f7.js";const o=({})=>s("footer",{className:a.footer,children:[e("img",{src:r,className:a.waveFooter,alt:"Wave background"}),e("div",{children:s("h2",{children:["Design and Built by ",e("span",{children:"Kenneth Andales"})]})})]});export{o as default};
