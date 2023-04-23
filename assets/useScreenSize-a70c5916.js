@@ -1,1 +1,0 @@
-import{r as e}from"./index-3f03c0bf.js";const w=()=>{const[t,r]=e.useState(window.innerWidth),[i,s]=e.useState(window.innerHeight),n=()=>{r(window.innerWidth),s(window.innerHeight)};return e.useEffect(()=>(window.addEventListener("resize",n),()=>window.removeEventListener("resize",n)),[t,i]),{width:t,height:i}};export{w as u};
