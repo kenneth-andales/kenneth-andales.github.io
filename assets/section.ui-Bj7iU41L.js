@@ -1,0 +1,1 @@
+import{l as a}from"./chunk-KNED5TY2-DZ0i-XEM.js";function n({children:t,className:s,id:p,ref:r}){return a.jsx("section",{ref:r,id:p,className:`pt-20 pb-[10vh] lg:pb-52 lg:pt-6 space-y-10 dark:bg-dark ${s||null}`,children:t})}export{n as S};
