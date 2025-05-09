@@ -1,1 +1,0 @@
-import{l as s}from"./chunk-KNED5TY2-DagwmR2k.js";function i({wrapperClassName:a,className:m,src:l,alt:e,width:r,height:t}){return s.jsx("div",{className:`${a||""}`,children:s.jsx("img",{className:`w-full max-w-full mx-auto ${m||""}`,src:l,alt:e,height:t,width:r})})}export{i as I};
